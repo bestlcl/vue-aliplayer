@@ -1,6 +1,6 @@
-# Vue-AliPlayer
+# Vue2-AliPlayer
 
-> A Vue 2.x video player component based on [vue-aliplayer](https://github.com/slacrey/vue-aliplayer).
+> A Vue 2.x video player component based on [vue-aliplayer](https://github.com/bbslcl/vue-aliplayer).
 
 
 ## Install
