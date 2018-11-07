@@ -13,7 +13,7 @@ export default {
     aliplayerSdkPath: {
       // Aliplayer 代码的路径
       type: String,
-      default: "//g.alicdn.com/de/prismplayer/2.6.0/aliplayer-min.js"
+      default: "//g.alicdn.com/de/prismplayer/2.7.2/aliplayer-min.js"
     },
     autoplay: {
       type: Boolean,
