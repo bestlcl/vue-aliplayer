@@ -1,18 +1,18 @@
 # Vue2-AliPlayer
 
-> A Vue 2.x video player component based on [vue-aliplayer](https://github.com/bbslcl/vue-aliplayer).
+> A Vue 2.x video player component based on [vue2-aliplayer](https://github.com/bbslcl/vue2-aliplayer).
 
 
 ## Install
 
 ```bash
-npm install vue-aliplayer -S
+npm install vue2-aliplayer -S
 ```
 
 ## Usage
 
 ```js
-import VueAliplayer from 'vue-aliplayer'
+import VueAliplayer from 'vue2-aliplayer'
 
 export default {
   components: {
